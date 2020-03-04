@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "presonal-evolution", "presonal-evolution\presonal-evolution.csproj", "{8E9B5889-C641-4482-9B33-79A808EEAEDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "question-creator", "question-creator\question-creator.csproj", "{472674A6-A6FD-4088-ACC6-FE51E7FD4B90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E9B5889-C641-4482-9B33-79A808EEAEDF}.Debug|x86.ActiveCfg = Debug|x86
+		{8E9B5889-C641-4482-9B33-79A808EEAEDF}.Debug|x86.Build.0 = Debug|x86
+		{8E9B5889-C641-4482-9B33-79A808EEAEDF}.Release|x86.ActiveCfg = Release|x86
+		{8E9B5889-C641-4482-9B33-79A808EEAEDF}.Release|x86.Build.0 = Release|x86
+		{472674A6-A6FD-4088-ACC6-FE51E7FD4B90}.Debug|x86.ActiveCfg = Debug|x86
+		{472674A6-A6FD-4088-ACC6-FE51E7FD4B90}.Debug|x86.Build.0 = Debug|x86
+		{472674A6-A6FD-4088-ACC6-FE51E7FD4B90}.Release|x86.ActiveCfg = Release|x86
+		{472674A6-A6FD-4088-ACC6-FE51E7FD4B90}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
